@@ -1,0 +1,3 @@
+model,avg_latency,min_latency,max_latency,avg_response_length
+mistral,156.05,9.37,237.96,1418.6
+phi3,74.61,3.72,153.5,900.0

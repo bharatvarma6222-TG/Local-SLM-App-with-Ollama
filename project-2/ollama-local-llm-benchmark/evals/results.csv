@@ -1,0 +1,11 @@
+model,prompt,latency,response_length,response_preview,status
+phi3,Explain neural networks,83.75,1361,"Neural networks are a series of algorithms that endeavor to recognize relationships in data, and in doing so, they attem",OK
+phi3,Write Python quicksort algorithm,77.84,439,```python  def quicksort(arr):      if len(arr) <= 1:          return arr      pivot = arr[len(arr) // 2]      left = [x,OK
+phi3,Summarize the importance of artificial intelligence,54.26,772,Artificial intelligence (AI) has revolutionized how we interact with technology and solve complex problems. It enhances ,OK
+phi3,Translate 'Hello world' into French,3.72,15, Salut le monde,OK
+phi3,Explain transformers in machine learning,153.5,1913,Transformers are a type of neural network architecture that has been revolutionary in the field of natural language proc,OK
+mistral,Explain neural networks,237.96,2015," Neural networks, also known as artificial neural networks (ANNs), are a set of algorithms modeled after the structure a",OK
+mistral,Write Python quicksort algorithm,219.19,1554, Here is a Python implementation of the quicksort algorithm:  ```python def quicksort(arr):     if len(arr) <= 1:       ,OK
+mistral,Summarize the importance of artificial intelligence,158.93,1764, Artificial Intelligence (AI) plays a crucial role in today's rapidly evolving technological landscape. Here are some of,OK
+mistral,Translate 'Hello world' into French,9.37,64," The French translation for ""Hello world"" is ""Bonjour le monde"".",OK
+mistral,Explain transformers in machine learning,154.8,1696," Transformers are a type of model architecture used in the field of machine learning, particularly for natural language ",OK
