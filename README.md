@@ -1,1 +1,0 @@
-# Local-SLM-App-with-Ollama
